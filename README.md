@@ -2,6 +2,14 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+SR03 devoir 2 \
+Salon de discussion \
+Partie salon de chat \
+Utilisant React.js \
+
+Ajouter des nouveaux components dans la index.js 
+
+
 ## Available Scripts
 
 In the project directory, you can run:
